@@ -1,0 +1,1 @@
+Publique estes arquivos juntos em um servidor HTTPS (por exemplo, GitHub Pages). Depois abra o endereço no Chrome do Android e escolha Instalar app/Adicionar à tela inicial.
